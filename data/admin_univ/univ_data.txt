@@ -1,0 +1,25 @@
+Harvard University,95367 David Park,Malawa,California
+California Institute of Technology,6799 Holmberg Trail,Benito Juarez,Texas
+Massachusetts Institute of Technology,2 Bobwhite Hill,Kabacan,Florida
+Stanford University,25923 Kings Avenue,Västanfjärd,New York
+Princeton University,803 Corben Lane,Plaridel,Pennsylvania
+University of Cambridge,5372 Loeprich Pass,Vischongo,Illinois
+University of Oxford,382 Novick Trail,Mulhouse,Ohio
+University of California Berkeley,37 Dexter Terrace,Amolatar,Georgia
+Imperial College London,7222 International Street,Nagano-shi,North Carolina
+Yale University,372 Arkansas Crossing,Vin’kivtsi,Michigan
+University of CaliforniaLos Angeles,72 Hoard Lane,Xinshan,New Jersey
+University of Chicago,951 Macpherson Plaza,Hali,Virginia
+Johns Hopkins University,79207 Grim Lane,Finspång,Washington
+Cornell University,208 Vera Parkway,Licheng,Arizona
+ETH Zurich – Swiss Federal Institute of Technology Zurich,8946 Erie Parkway,Tejakalapa,Massachusetts
+University of Michigan,024 Oak Center,Denyshi,Tennessee
+University of Toronto,07823 Esch Park,Novi Kneževac,Indiana
+Columbia University,207 Kropf Center,Pasirsongket Dua,Missouri
+University of Pennsylvania,53057 Northland Center,Changfeng,Maryland
+Carnegie Mellon University,1245 Merchant Pass,Dongdai,Wisconsin
+University of Hong Kong,51 Hooker Court,Sundsvall,Colorado
+University College London,72033 Buhler Lane,Fagersta,Minnesota
+University of Washington,062 Cordelia Alley,Ganjiangtou,South Carolina
+Duke University,116 Badeau Point,Aubenas,Alabama
+Bandung Institute of Technology,2217 Atwood Lane,Kurlovo,Louisiana

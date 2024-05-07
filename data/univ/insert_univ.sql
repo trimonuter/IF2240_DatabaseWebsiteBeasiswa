@@ -1,0 +1,27 @@
+use TubesBasisData;
+
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Harvard University", "95367 David Park", "Malawa", "California", "366174", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("California Institute of Technology", "6799 Holmberg Trail", "Benito Juarez", "Texas", "358109", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Massachusetts Institute of Technology", "2 Bobwhite Hill", "Kabacan", "Florida", "783033", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Stanford University", "25923 Kings Avenue", "Västanfjärd", "New York", "885980", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Princeton University", "803 Corben Lane", "Plaridel", "Pennsylvania", "692864", "C");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Cambridge", "5372 Loeprich Pass", "Vischongo", "Illinois", "169042", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Oxford", "382 Novick Trail", "Mulhouse", "Ohio", "116963", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of California Berkeley", "37 Dexter Terrace", "Amolatar", "Georgia", "751939", "D");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Imperial College London", "7222 International Street", "Nagano-shi", "North Carolina", "434908", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Yale University", "372 Arkansas Crossing", "Vin’kivtsi", "Michigan", "698848", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of CaliforniaLos Angeles", "72 Hoard Lane", "Xinshan", "New Jersey", "136203", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Chicago", "951 Macpherson Plaza", "Hali", "Virginia", "762028", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Johns Hopkins University", "79207 Grim Lane", "Finspång", "Washington", "101733", "D");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Cornell University", "208 Vera Parkway", "Licheng", "Arizona", "890430", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("ETH Zurich – Swiss Federal Institute of Technology Zurich", "8946 Erie Parkway", "Tejakalapa", "Massachusetts", "388378", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Michigan", "024 Oak Center", "Denyshi", "Tennessee", "497314", "D");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Toronto", "07823 Esch Park", "Novi Kneževac", "Indiana", "320811", "C");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Columbia University", "207 Kropf Center", "Pasirsongket Dua", "Missouri", "506977", "B");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Pennsylvania", "53057 Northland Center", "Changfeng", "Maryland", "274756", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Carnegie Mellon University", "1245 Merchant Pass", "Dongdai", "Wisconsin", "554027", "D");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Hong Kong", "51 Hooker Court", "Sundsvall", "Colorado", "116069", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University College London", "72033 Buhler Lane", "Fagersta", "Minnesota", "525766", "D");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("University of Washington", "062 Cordelia Alley", "Ganjiangtou", "South Carolina", "786611", "A");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Duke University", "116 Badeau Point", "Aubenas", "Alabama", "171578", "C");
+INSERT INTO Universitas (NamaUniversitas, AlamatNamaJalan, AlamatKota, AlamatProvinsi, AlamatKodePos, Akreditasi) VALUES ("Bandung Institute of Technology", "2217 Atwood Lane", "Kurlovo", "Louisiana", "729317", "A");

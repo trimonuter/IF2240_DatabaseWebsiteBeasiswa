@@ -1,0 +1,25 @@
+Harvard University,95367 David Park,Malawa,California,366174,B
+California Institute of Technology,6799 Holmberg Trail,Benito Juarez,Texas,358109,A
+Massachusetts Institute of Technology,2 Bobwhite Hill,Kabacan,Florida,783033,B
+Stanford University,25923 Kings Avenue,Västanfjärd,New York,885980,A
+Princeton University,803 Corben Lane,Plaridel,Pennsylvania,692864,C
+University of Cambridge,5372 Loeprich Pass,Vischongo,Illinois,169042,A
+University of Oxford,382 Novick Trail,Mulhouse,Ohio,116963,A
+University of California Berkeley,37 Dexter Terrace,Amolatar,Georgia,751939,D
+Imperial College London,7222 International Street,Nagano-shi,North Carolina,434908,B
+Yale University,372 Arkansas Crossing,Vin’kivtsi,Michigan,698848,B
+University of CaliforniaLos Angeles,72 Hoard Lane,Xinshan,New Jersey,136203,A
+University of Chicago,951 Macpherson Plaza,Hali,Virginia,762028,B
+Johns Hopkins University,79207 Grim Lane,Finspång,Washington,101733,D
+Cornell University,208 Vera Parkway,Licheng,Arizona,890430,A
+ETH Zurich – Swiss Federal Institute of Technology Zurich,8946 Erie Parkway,Tejakalapa,Massachusetts,388378,B
+University of Michigan,024 Oak Center,Denyshi,Tennessee,497314,D
+University of Toronto,07823 Esch Park,Novi Kneževac,Indiana,320811,C
+Columbia University,207 Kropf Center,Pasirsongket Dua,Missouri,506977,B
+University of Pennsylvania,53057 Northland Center,Changfeng,Maryland,274756,A
+Carnegie Mellon University,1245 Merchant Pass,Dongdai,Wisconsin,554027,D
+University of Hong Kong,51 Hooker Court,Sundsvall,Colorado,116069,A
+University College London,72033 Buhler Lane,Fagersta,Minnesota,525766,D
+University of Washington,062 Cordelia Alley,Ganjiangtou,South Carolina,786611,A
+Duke University,116 Badeau Point,Aubenas,Alabama,171578,C
+Bandung Institute of Technology,2217 Atwood Lane,Kurlovo,Louisiana,729317,A
